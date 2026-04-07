@@ -759,11 +759,27 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Very",
+                            "label": "Slightly\nurgent",
+                            "value": 2
+                        },
+                        {
+                            "label": "Somewhat\nurgent",
+                            "value": 3
+                        },
+                        {
+                            "label": "Moderately\nurgent",
+                            "value": 4
+                        },
+                        {
+                            "label": "Urgent",
+                            "value": 5
+                        },
+                        {
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
