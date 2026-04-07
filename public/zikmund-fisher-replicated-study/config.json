@@ -16,7 +16,7 @@
         "contactEmail": "gr-datavis-26@wpi.edu",
         "helpTextPath": "zikmund-fisher-replicated-study/assets/help.md",
         "logoPath": "revisitAssets/revisitLogoSquare.svg",
-        "stylesheetPath": "zikmund-fisher-replicated-study/assets/styles.css",
+        "stylesheetPath": "zikmund-fisher-replicated-study/styles.css",
         "withProgressBar": true,
         "autoDownloadStudy": false,
         "withSidebar": true
@@ -53,19 +53,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -73,7 +73,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -93,19 +93,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -113,7 +113,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -164,19 +164,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -184,7 +184,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -204,19 +204,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -224,7 +224,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -275,19 +275,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -295,7 +295,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -315,19 +315,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -335,7 +335,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -386,19 +386,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -406,7 +406,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -426,19 +426,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -446,7 +446,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -497,19 +497,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -517,7 +517,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -537,19 +537,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -557,7 +557,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -608,19 +608,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -628,7 +628,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -648,19 +648,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -668,7 +668,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -719,19 +719,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -739,7 +739,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -814,19 +814,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -834,7 +834,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -854,19 +854,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -874,7 +874,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -926,19 +926,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -946,7 +946,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -966,19 +966,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -986,7 +986,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1037,19 +1037,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1057,7 +1057,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1077,19 +1077,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1097,7 +1097,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1148,19 +1148,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1168,7 +1168,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1188,19 +1188,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1208,7 +1208,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1259,19 +1259,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1279,7 +1279,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1299,19 +1299,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1319,7 +1319,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1370,19 +1370,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1390,7 +1390,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1410,19 +1410,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1430,7 +1430,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1481,19 +1481,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1501,7 +1501,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1521,19 +1521,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1541,7 +1541,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1592,19 +1592,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1612,7 +1612,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1632,19 +1632,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1652,7 +1652,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1703,19 +1703,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1723,7 +1723,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1743,19 +1743,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1763,7 +1763,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1815,19 +1815,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1835,7 +1835,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1855,19 +1855,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1875,7 +1875,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -1926,19 +1926,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -1946,7 +1946,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -1966,19 +1966,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -1986,7 +1986,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -2037,19 +2037,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -2057,7 +2057,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -2077,19 +2077,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -2097,7 +2097,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -2148,19 +2148,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -2168,7 +2168,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -2188,19 +2188,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -2208,7 +2208,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -2259,19 +2259,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -2279,7 +2279,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -2299,19 +2299,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -2319,7 +2319,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -2370,19 +2370,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -2390,7 +2390,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -2410,19 +2410,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -2430,7 +2430,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -2481,19 +2481,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -2501,7 +2501,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -2521,19 +2521,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -2541,7 +2541,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -2592,19 +2592,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all alarming",
+                            "label": "Not at all \nalarming",
                             "value": 1
                         },
                         {
-                            "label": "Slightly alarming",
+                            "label": "Slightly\nalarming",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat alarming",
+                            "label": "Somewhat\nalarming",
                             "value": 3
                         },
                         {
-                            "label": "Moderately alarming",
+                            "label": "Moderately\nalarming",
                             "value": 4
                         },
                         {
@@ -2612,7 +2612,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very alarming",
+                            "label": "Very\nalarming",
                             "value": 6
                         }
                     ]
@@ -2632,19 +2632,19 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all urgent",
+                            "label": "Not at all\nurgent",
                             "value": 1
                         },
                         {
-                            "label": "Slightly urgent",
+                            "label": "Slightly\nurgent",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat urgent",
+                            "label": "Somewhat\nurgent",
                             "value": 3
                         },
                         {
-                            "label": "Moderately urgent",
+                            "label": "Moderately\nurgent",
                             "value": 4
                         },
                         {
@@ -2652,7 +2652,7 @@
                             "value": 5
                         },
                         {
-                            "label": "Very urgent",
+                            "label": "Very\nurgent",
                             "value": 6
                         }
                     ]
@@ -2703,7 +2703,7 @@
                     },
                     "options": [
                         {
-                            "label": "Not well at all",
+                            "label": "Not well\nat all",
                             "value": 1
                         },
                         {
@@ -2739,7 +2739,7 @@
                     },
                     "options": [
                         {
-                            "label": "Not helpful at all",
+                            "label": "Not helpful\nat all",
                             "value": 1
                         },
                         {
@@ -2811,7 +2811,7 @@
                     },
                     "options": [
                         {
-                            "label": "Do not trust at all",
+                            "label": "Do not trust\nat all",
                             "value": 1
                         },
                         {
@@ -2953,7 +2953,7 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all good",
+                            "label": "Not at all\ngood",
                             "value": 1
                         },
                         {
@@ -2989,7 +2989,7 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all good",
+                            "label": "Not at all\ngood",
                             "value": 1
                         },
                         {
@@ -3025,7 +3025,7 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all good",
+                            "label": "Not at all\ngood",
                             "value": 1
                         },
                         {
@@ -3061,7 +3061,7 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all good",
+                            "label": "Not at all\ngood",
                             "value": 1
                         },
                         {
@@ -3097,7 +3097,7 @@
                     },
                     "options": [
                         {
-                            "label": "Not at all helpful",
+                            "label": "Not at all\nhelpful",
                             "value": 1
                         },
                         {
@@ -3133,11 +3133,11 @@
                     },
                     "options": [
                         {
-                            "label": "Always prefer words",
+                            "label": "Always prefer\nwords",
                             "value": 1
                         },
                         {
-                            "label": "Mostly prefer words",
+                            "label": "Mostly prefer\nwords",
                             "value": 2
                         },
                         {
@@ -3145,11 +3145,11 @@
                             "value": 3
                         },
                         {
-                            "label": "Mostly prefer numbers",
+                            "label": "Mostly prefer\nnumbers",
                             "value": 4
                         },
                         {
-                            "label": "Always prefer numbers",
+                            "label": "Always prefer\nnumbers",
                             "value": 5
                         }
                     ]
@@ -3161,18 +3161,18 @@
                     "location": "aboveStimulus",
                     "type": "slider",
                     "step": 1,
-                    "spacing": 1,
+                    "spacing": 2,
                     "style": {
                         "width": "60%",
                         "maxWidth": "700px",
                         "margin": "0 auto"
                     },
                     "options": [
-                        { "label": "Always prefer percentages", "value": 1 },
-                        { "label": "Mostly prefer percentages", "value": 2 },
+                        { "label": "Always prefer\npercentages", "value": 1 },
+                        { "label": "Mostly prefer\npercentages", "value": 2 },
                         { "label": "No preference", "value": 3 },
-                        { "label": "Mostly prefer words", "value": 4 },
-                        { "label": "Always prefer words", "value": 5 }
+                        { "label": "Mostly prefer\nwords", "value": 4 },
+                        { "label": "Always prefer\nwords", "value": 5 }
                     ]
                 },
                 {
