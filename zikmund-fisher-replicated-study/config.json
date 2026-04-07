@@ -1935,6 +1935,15 @@
                 }
             ]
         },
+        "disclaimer": {
+            "type": "markdown",
+            "path": "zikmund-fisher-replicated-study/assets/disclaimer.md",
+            "response": [],
+            "meta": {
+                "taskId": "thanks",
+                "trackTime": true
+            }
+        },
         "thanks": {
             "type": "markdown",
             "path": "zikmund-fisher-replicated-study/assets/thanks.md",
@@ -2014,6 +2023,7 @@
             "subjective-numeracy-scale",
             "chews-screening-question",
             "familiarity-question",
+            "disclaimer",
             "$graph-literacy-scale.components.Q5",
             "$graph-literacy-scale.components.Q6",
             "$graph-literacy-scale.components.Q7",
