@@ -2723,11 +2723,11 @@
                             "value": 1
                         },
                         {
-                            "label": "Slightly well",
+                            "label": "Slightly\nwell",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat well",
+                            "label": "Somewhat\nwell",
                             "value": 3
                         },
                         {
@@ -2735,7 +2735,7 @@
                             "value": 4
                         },
                         {
-                            "label": "Extremely well",
+                            "label": "Extremely\nwell",
                             "value": 5
                         }
                     ]
@@ -2759,11 +2759,11 @@
                             "value": 1
                         },
                         {
-                            "label": "Slightly helpful",
+                            "label": "Slightly\nhelpful",
                             "value": 2
                         },
                         {
-                            "label": "Somewhat helpful",
+                            "label": "Somewhat\nhelpful",
                             "value": 3
                         },
                         {
@@ -2771,7 +2771,7 @@
                             "value": 4
                         },
                         {
-                            "label": "Extremely helpful",
+                            "label": "Extremely\nhelpful",
                             "value": 5
                         }
                     ]
@@ -2791,11 +2791,11 @@
                     },
                     "options": [
                         {
-                            "label": "Definitely no",
+                            "label": "Definitely\nno",
                             "value": 1
                         },
                         {
-                            "label": "Probably no",
+                            "label": "Probably\nno",
                             "value": 2
                         },
                         {
@@ -2803,11 +2803,11 @@
                             "value": 3
                         },
                         {
-                            "label": "Probably yes",
+                            "label": "Probably\nyes",
                             "value": 4
                         },
                         {
-                            "label": "Definitely yes",
+                            "label": "Definitely\nyes",
                             "value": 5
                         }
                     ]
@@ -2831,11 +2831,11 @@
                             "value": 1
                         },
                         {
-                            "label": "Trust slightly",
+                            "label": "Trust\nslightly",
                             "value": 2
                         },
                         {
-                            "label": "Trust somewhat",
+                            "label": "Trust\nsomewhat",
                             "value": 3
                         },
                         {
@@ -2843,7 +2843,7 @@
                             "value": 4
                         },
                         {
-                            "label": "Trust completely",
+                            "label": "Trust\ncompletely",
                             "value": 5
                         }
                     ]

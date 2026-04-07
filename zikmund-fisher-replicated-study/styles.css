@@ -1,201 +1,24 @@
-/* ONLY target slider mark labels for all known slider question IDs */
-#sns1 [class*="markLabel"],
-#sns2 [class*="markLabel"],
-#sns3 [class*="markLabel"],
-#sns4 [class*="markLabel"],
-#sns5 [class*="markLabel"],
-#sns6 [class*="markLabel"],
-#sns7 [class*="markLabel"],
-#sns8 [class*="markLabel"],
-#csq [class*="markLabel"],
-#fq [class*="markLabel"],
-
-#Platelet_slightly_table_alarming [class*="markLabel"],
-#Platelet_slightly_table_urgency [class*="markLabel"],
-#Platelet_slightly_simple_alarming [class*="markLabel"],
-#Platelet_slightly_simple_urgency [class*="markLabel"],
-#Platelet_slightly_block_alarming [class*="markLabel"],
-#Platelet_slightly_block_urgency [class*="markLabel"],
-#Platelet_slightly_gradient_alarming [class*="markLabel"],
-#Platelet_slightly_gradient_urgency [class*="markLabel"],
-#Platelet_further_table_alarming [class*="markLabel"],
-#Platelet_further_table_urgency [class*="markLabel"],
-#Platelet_further_simple_alarming [class*="markLabel"],
-#Platelet_further_simple_urgency [class*="markLabel"],
-#Platelet_further_block_alarming [class*="markLabel"],
-#Platelet_further_block_urgency [class*="markLabel"],
-#Platelet_further_gradient_alarming [class*="markLabel"],
-#Platelet_further_gradient_urgency [class*="markLabel"],
-
-#ALT_slightly_table_alarming [class*="markLabel"],
-#ALT_slightly_table_urgency [class*="markLabel"],
-#ALT_slightly_simple_alarming [class*="markLabel"],
-#ALT_slightly_simple_urgency [class*="markLabel"],
-#ALT_slightly_block_alarming [class*="markLabel"],
-#ALT_slightly_block_urgency [class*="markLabel"],
-#ALT_slightly_gradient_alarming [class*="markLabel"],
-#ALT_slightly_gradient_urgency [class*="markLabel"],
-#ALT_further_table_alarming [class*="markLabel"],
-#ALT_further_table_urgency [class*="markLabel"],
-#ALT_further_simple_alarming [class*="markLabel"],
-#ALT_further_simple_urgency [class*="markLabel"],
-#ALT_further_block_alarming [class*="markLabel"],
-#ALT_further_block_urgency [class*="markLabel"],
-#ALT_further_gradient_alarming [class*="markLabel"],
-#ALT_further_gradient_urgency [class*="markLabel"],
-
-#Creatinine_slightly_table_alarming [class*="markLabel"],
-#Creatinine_slightly_table_urgency [class*="markLabel"],
-#Creatinine_slightly_simple_alarming [class*="markLabel"],
-#Creatinine_slightly_simple_urgency [class*="markLabel"],
-#Creatinine_slightly_block_alarming [class*="markLabel"],
-#Creatinine_slightly_block_urgency [class*="markLabel"],
-#Creatinine_slightly_gradient_alarming [class*="markLabel"],
-#Creatinine_slightly_gradient_urgency [class*="markLabel"],
-#Creatinine_further_table_alarming [class*="markLabel"],
-#Creatinine_further_table_urgency [class*="markLabel"],
-#Creatinine_further_simple_alarming [class*="markLabel"],
-#Creatinine_further_simple_urgency [class*="markLabel"],
-#Creatinine_further_block_alarming [class*="markLabel"],
-#Creatinine_further_block_urgency [class*="markLabel"],
-#Creatinine_further_gradient_alarming [class*="markLabel"],
-#Creatinine_further_gradient_urgency [class*="markLabel"] {
+.response [class*="markLabel"] {
     white-space: pre-line !important;
-    display: inline-block !important;
+    position: absolute !important;
+    left: 50%;
+    transform: translateX(-50%) !important;
+
     text-align: center !important;
-    line-height: 1.2 !important;
-    width: 120px !important;
-    max-width: 120px !important;
+    line-height: 1.15 !important;
+
+    width: max-content !important;
+    max-width: 90px !important;
+
     font-size: 0.75rem !important;
+    margin-top: 8px !important;
 }
 
-/* Give extra space below those sliders */
-#sns1,
-#sns2,
-#sns3,
-#sns4,
-#sns5,
-#sns6,
-#sns7,
-#sns8,
-#csq,
-#fq,
-
-#Platelet_slightly_table_alarming,
-#Platelet_slightly_table_urgency,
-#Platelet_slightly_simple_alarming,
-#Platelet_slightly_simple_urgency,
-#Platelet_slightly_block_alarming,
-#Platelet_slightly_block_urgency,
-#Platelet_slightly_gradient_alarming,
-#Platelet_slightly_gradient_urgency,
-#Platelet_further_table_alarming,
-#Platelet_further_table_urgency,
-#Platelet_further_simple_alarming,
-#Platelet_further_simple_urgency,
-#Platelet_further_block_alarming,
-#Platelet_further_block_urgency,
-#Platelet_further_gradient_alarming,
-#Platelet_further_gradient_urgency,
-
-#ALT_slightly_table_alarming,
-#ALT_slightly_table_urgency,
-#ALT_slightly_simple_alarming,
-#ALT_slightly_simple_urgency,
-#ALT_slightly_block_alarming,
-#ALT_slightly_block_urgency,
-#ALT_slightly_gradient_alarming,
-#ALT_slightly_gradient_urgency,
-#ALT_further_table_alarming,
-#ALT_further_table_urgency,
-#ALT_further_simple_alarming,
-#ALT_further_simple_urgency,
-#ALT_further_block_alarming,
-#ALT_further_block_urgency,
-#ALT_further_gradient_alarming,
-#ALT_further_gradient_urgency,
-
-#Creatinine_slightly_table_alarming,
-#Creatinine_slightly_table_urgency,
-#Creatinine_slightly_simple_alarming,
-#Creatinine_slightly_simple_urgency,
-#Creatinine_slightly_block_alarming,
-#Creatinine_slightly_block_urgency,
-#Creatinine_slightly_gradient_alarming,
-#Creatinine_slightly_gradient_urgency,
-#Creatinine_further_table_alarming,
-#Creatinine_further_table_urgency,
-#Creatinine_further_simple_alarming,
-#Creatinine_further_simple_urgency,
-#Creatinine_further_block_alarming,
-#Creatinine_further_block_urgency,
-#Creatinine_further_gradient_alarming,
-#Creatinine_further_gradient_urgency {
+.response {
     margin-bottom: 4rem !important;
 }
 
-/* Keep prompt text normal */
-#sns1 p,
-#sns2 p,
-#sns3 p,
-#sns4 p,
-#sns5 p,
-#sns6 p,
-#sns7 p,
-#sns8 p,
-#csq p,
-#fq p,
-
-#Platelet_slightly_table_alarming p,
-#Platelet_slightly_table_urgency p,
-#Platelet_slightly_simple_alarming p,
-#Platelet_slightly_simple_urgency p,
-#Platelet_slightly_block_alarming p,
-#Platelet_slightly_block_urgency p,
-#Platelet_slightly_gradient_alarming p,
-#Platelet_slightly_gradient_urgency p,
-#Platelet_further_table_alarming p,
-#Platelet_further_table_urgency p,
-#Platelet_further_simple_alarming p,
-#Platelet_further_simple_urgency p,
-#Platelet_further_block_alarming p,
-#Platelet_further_block_urgency p,
-#Platelet_further_gradient_alarming p,
-#Platelet_further_gradient_urgency p,
-
-#ALT_slightly_table_alarming p,
-#ALT_slightly_table_urgency p,
-#ALT_slightly_simple_alarming p,
-#ALT_slightly_simple_urgency p,
-#ALT_slightly_block_alarming p,
-#ALT_slightly_block_urgency p,
-#ALT_slightly_gradient_alarming p,
-#ALT_slightly_gradient_urgency p,
-#ALT_further_table_alarming p,
-#ALT_further_table_urgency p,
-#ALT_further_simple_alarming p,
-#ALT_further_simple_urgency p,
-#ALT_further_block_alarming p,
-#ALT_further_block_urgency p,
-#ALT_further_gradient_alarming p,
-#ALT_further_gradient_urgency p,
-
-#Creatinine_slightly_table_alarming p,
-#Creatinine_slightly_table_urgency p,
-#Creatinine_slightly_simple_alarming p,
-#Creatinine_slightly_simple_urgency p,
-#Creatinine_slightly_block_alarming p,
-#Creatinine_slightly_block_urgency p,
-#Creatinine_slightly_gradient_alarming p,
-#Creatinine_slightly_gradient_urgency p,
-#Creatinine_further_table_alarming p,
-#Creatinine_further_table_urgency p,
-#Creatinine_further_simple_alarming p,
-#Creatinine_further_simple_urgency p,
-#Creatinine_further_block_alarming p,
-#Creatinine_further_block_urgency p,
-#Creatinine_further_gradient_alarming p,
-#Creatinine_further_gradient_urgency p {
+.response p {
     font-size: 1rem !important;
     font-weight: normal !important;
 }
