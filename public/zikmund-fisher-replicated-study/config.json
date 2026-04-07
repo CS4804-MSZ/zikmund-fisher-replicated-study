@@ -45,6 +45,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -64,6 +69,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -81,6 +91,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -109,6 +124,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -128,6 +148,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -145,6 +170,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -173,6 +203,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -192,6 +227,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -209,6 +249,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -237,6 +282,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -256,6 +306,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -273,6 +328,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -301,6 +361,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -320,6 +385,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -337,6 +407,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -365,6 +440,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -384,6 +464,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -401,6 +486,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -429,6 +519,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -448,6 +543,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -465,6 +565,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -493,6 +598,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -512,6 +622,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -529,6 +644,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -545,6 +665,7 @@
                 "trackTime": true
             }
         },
+
         "ALT_slightly_table": {
             "type": "website",
             "path": "zikmund-fisher-replicated-study/assets/html-images/ALT_slightly_table.html",
@@ -557,6 +678,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -576,6 +702,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -593,6 +724,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -621,6 +757,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -640,6 +781,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -657,6 +803,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -685,6 +836,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -704,6 +860,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -721,6 +882,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -749,6 +915,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -768,6 +939,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -785,6 +961,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -813,6 +994,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -832,6 +1018,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -849,6 +1040,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -877,6 +1073,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -896,6 +1097,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -913,6 +1119,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -941,6 +1152,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -960,6 +1176,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -977,6 +1198,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1005,6 +1231,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1024,6 +1255,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1041,6 +1277,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1057,6 +1298,7 @@
                 "trackTime": true
             }
         },
+
         "Creatinine_slightly_table": {
             "type": "website",
             "path": "zikmund-fisher-replicated-study/assets/html-images/creatinine_slightly_table.html",
@@ -1069,6 +1311,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1088,6 +1335,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1105,6 +1357,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1133,6 +1390,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1152,6 +1414,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1169,6 +1436,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1197,6 +1469,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1216,6 +1493,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1233,6 +1515,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1261,6 +1548,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1280,6 +1572,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1297,6 +1594,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1325,6 +1627,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1344,6 +1651,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1361,6 +1673,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1389,6 +1706,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1408,6 +1730,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1425,6 +1752,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1453,6 +1785,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1472,6 +1809,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1489,6 +1831,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1517,6 +1864,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1536,6 +1888,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all",
@@ -1553,6 +1910,11 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Nothing",
                         "Talk to your doctor about this test result at your next regular appointment",
@@ -1569,6 +1931,7 @@
                 "trackTime": true
             }
         },
+
         "final-questions": {
             "type": "questionnaire",
             "response": [
@@ -1580,6 +1943,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not well at all",
@@ -1599,6 +1967,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all helpful",
@@ -1618,6 +1991,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Definitely no",
@@ -1637,6 +2015,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Do not trust at all",
@@ -1665,7 +2048,12 @@
                     "type": "numerical",
                     "placeholder": "Enter your age",
                     "max": 100,
-                    "min": 0
+                    "min": 0,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    }
                 },
                 {
                     "id": "q2-age",
@@ -1673,6 +2061,11 @@
                     "required": true,
                     "location": "aboveStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Female",
                         "Male",
@@ -1687,6 +2080,11 @@
                     "required": true,
                     "location": "aboveStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Hispanic or Latino",
                         "Not Hispanic or Latino"
@@ -1698,6 +2096,11 @@
                     "required": true,
                     "location": "aboveStimulus",
                     "type": "checkbox",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "American Indian or Alaska Native",
                         "Asian",
@@ -1712,6 +2115,11 @@
                     "required": true,
                     "location": "aboveStimulus",
                     "type": "dropdown",
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         "Did not complete high school",
                         "High school only",
@@ -1737,6 +2145,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all good",
@@ -1756,6 +2169,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all good",
@@ -1775,6 +2193,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all good",
@@ -1794,6 +2217,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all good",
@@ -1813,6 +2241,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all helpful",
@@ -1832,6 +2265,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Always prefer words",
@@ -1851,6 +2289,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Always prefer percentages",
@@ -1870,6 +2313,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Never",
@@ -1898,6 +2346,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all confident",
@@ -1922,6 +2375,11 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "style": {
+                        "width": "60%",
+                        "maxWidth": "700px",
+                        "margin": "0 auto"
+                    },
                     "options": [
                         {
                             "label": "Not at all familiar",
