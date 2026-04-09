@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Platelet Count (PLT)</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Platelet Count (PLT)</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
     <style>
         html, body {
             margin: 0;
@@ -22,11 +22,13 @@
 
         .viz-frame {
             width: 100%;
-            min-height: 220px;
+            height: 100%;
             display: flex;
             justify-content: center;
             align-items: center;
             box-sizing: border-box;
+            padding: 16px;
+            overflow: hidden;
         }
 
         #vis0 {
@@ -36,6 +38,7 @@
             justify-content: center;
             align-items: center;
             box-sizing: border-box;
+            transform-origin: center center;
         }
 
         table {
@@ -79,23 +82,43 @@
 <body>
 <div class="viz-frame">
     <div id="vis0">
-<div id="container"></div>
-<script>
-const data = [{ test: "Platelet Count (PLT)", result: 25, range: "150 - 400", units: "x10\u2079/L" }];
+        <div id="container"></div>
+        <script>
+          const data = [{ test: "Platelet Count (PLT)", result: 25, range: "150 - 400", units: "x10\u2079/L" }];
 
-const table = d3.select("#container").append("table");
-const thead = table.append("thead").append("tr");
-["Test","Your Result","Standard Range","Units"].forEach(h => thead.append("th").text(h));
+          const table = d3.select("#container").append("table");
+          const thead = table.append("thead").append("tr");
+          ["Test","Your Result","Standard Range","Units"].forEach(h => thead.append("th").text(h));
 
-const tbody = table.append("tbody");
-data.forEach(d => {
-  const tr = tbody.append("tr");
-  tr.append("td").text(d.test);
-  tr.append("td").text(d.result);
-  tr.append("td").text(d.range);
-  tr.append("td").html("x10<sup>9</sup>/L");
-});
-</script>
+          const tbody = table.append("tbody");
+          data.forEach(d => {
+            const tr = tbody.append("tr");
+            tr.append("td").text(d.test);
+            tr.append("td").text(d.result);
+            tr.append("td").text(d.range);
+            tr.append("td").html("x10<sup>9</sup>/L");
+          });
+
+          function resizeTable() {
+            const vis = document.getElementById("vis0");
+
+            const baseWidth = 900;
+            const baseHeight = 220;
+            const padding = 32;
+
+            const availableWidth = window.innerWidth - padding;
+            const availableHeight = window.innerHeight - padding;
+
+            const scaleX = availableWidth / baseWidth;
+            const scaleY = availableHeight / baseHeight;
+            const scale = Math.min(scaleX, scaleY, 1);
+
+            vis.style.transform = `scale(${scale})`;
+          }
+
+          window.addEventListener("resize", resizeTable);
+          resizeTable();
+        </script>
     </div>
 </div>
 </body>
