@@ -44,6 +44,7 @@
                     "required": true,
                     "location": "belowStimulus",
                     "type": "slider",
+                    "startingValue": 1,
                     "step": 1,
                     "spacing": 1,
                     "style": {
@@ -158,6 +159,7 @@
                     "type": "slider",
                     "step": 1,
                     "spacing": 1,
+                    "startingValue": 1,
                     "style": {
                         "width": "60%",
                         "maxWidth": "700px",
