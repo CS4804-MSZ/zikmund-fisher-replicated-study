@@ -23,22 +23,29 @@
 
         .viz-frame {
             width: 100%;
-            min-height: 220px;
+            height: 100%;
             display: flex;
             justify-content: center;
             align-items: center;
             box-sizing: border-box;
+            padding: 16px;
         }
 
         #vis1 {
-            width: 900px;
-            height: 340px;
+            aspect-ratio: 900 / 340;
+            width: min(100%, calc((100vh - 32px) * 900 / 340));
+            max-height: calc(100vh - 32px);
+        }
+
+        #vis0 {
+            width: 100%;
+            height: 100%;
         }
 
         #vis1 svg,
         #vis1 canvas {
-            width: 900px !important;
-            height: 320px !important;
+            width: 100% !important;
+            height: 100% !important;
             display: block;
         }
     </style>
