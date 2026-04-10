@@ -17,6 +17,8 @@
         "helpTextPath": "zikmund-fisher-replicated-study/assets/help.md",
         "logoPath": "revisitAssets/revisitLogoSquare.svg",
         "stylesheetPath": "zikmund-fisher-replicated-study/styles.css",
+        "urlParticipantIdParam": "PROLIFIC_PID",
+        "studyEndMsg": "Thank you for completing the study! Return to Prolific: [https://app.prolific.com/submissions/complete?cc=CUWU5YIU](https://app.prolific.com/submissions/complete?cc=CUWU5YIU)",
         "withProgressBar": true,
         "autoDownloadStudy": false,
         "withSidebar": true
@@ -28,7 +30,17 @@
         "introduction": {
             "type": "markdown",
             "path": "zikmund-fisher-replicated-study/assets/introduction.md",
-            "response": [],
+            "response": [
+                {
+                    "id": "prolificId",
+                    "prompt": "Please enter your Prolific ID",
+                    "required": true,
+                    "location": "belowStimulus",
+                    "type": "shortText",
+                    "placeholder": "Prolific ID",
+                    "paramCapture": "PROLIFIC_PID"
+                }
+            ],
             "meta": {
                 "taskId": "introduction",
                 "trackTime": true
