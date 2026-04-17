@@ -3415,7 +3415,7 @@
             "introduction",
 
             {
-                "order": "random",
+                "order": "latinSquare",
                 "numSamples": 1,
                 "components": [
                     {
